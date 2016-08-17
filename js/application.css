@@ -1,0 +1,40 @@
+#table {
+  border: 10px solid grey;
+  width: 50%;
+  height: 800px;
+  margin: 4% 20% ;
+
+}
+
+td {
+  border: 3px solid darkgrey;
+  width: 22.5%;
+  height: 22.5%;
+  background-color: #f0ecec;
+  font-size: 40px;
+  text-align: center;
+}
+
+#score {
+  width:90%;
+  background: #F0F0F0;
+  border: 1px solid #CCC;
+  height: 200px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+
+h1 {
+  margin: auto 41% ;
+  font-size: 4em;
+  padding: none;
+  margin: none;
+  color: #f0ecec;
+  font-family: sans-serif;
+  letter-spacing: 20px;
+}
+
+body {
+  background-image: url(../dark_embroidery.png);
+}
